@@ -1,0 +1,7 @@
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task3\bin\Debug\Task3.exe.config
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task3\bin\Debug\Task3.exe
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task3\bin\Debug\Task3.pdb
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task3\obj\Debug\Task3.exe
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task3\obj\Debug\Task3.pdb

@@ -1,0 +1,14 @@
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task1\bin\Debug\Task1.exe.config
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task1\bin\Debug\Task1.exe
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task1\bin\Debug\Task1.pdb
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task1\obj\Debug\Task1.exe
+C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_5\Task1\obj\Debug\Task1.pdb
+C:\Users\Andrey\Desktop\Derevyanko_GU_HomeWork_5\Derevyanko_GU_HomeWork_5\Task1\bin\Debug\Task1.exe.config
+C:\Users\Andrey\Desktop\Derevyanko_GU_HomeWork_5\Derevyanko_GU_HomeWork_5\Task1\bin\Debug\Task1.exe
+C:\Users\Andrey\Desktop\Derevyanko_GU_HomeWork_5\Derevyanko_GU_HomeWork_5\Task1\bin\Debug\Task1.pdb
+C:\Users\Andrey\Desktop\Derevyanko_GU_HomeWork_5\Derevyanko_GU_HomeWork_5\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\Derevyanko_GU_HomeWork_5\Derevyanko_GU_HomeWork_5\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Derevyanko_GU_HomeWork_5\Derevyanko_GU_HomeWork_5\Task1\obj\Debug\Task1.exe
+C:\Users\Andrey\Desktop\Derevyanko_GU_HomeWork_5\Derevyanko_GU_HomeWork_5\Task1\obj\Debug\Task1.pdb

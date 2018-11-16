@@ -1,0 +1,6 @@
+c:\users\oper\source\repos\HomeWork1\Task4\bin\Debug\Task4.exe.config
+c:\users\oper\source\repos\HomeWork1\Task4\bin\Debug\Task4.exe
+c:\users\oper\source\repos\HomeWork1\Task4\bin\Debug\Task4.pdb
+c:\users\oper\source\repos\HomeWork1\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+c:\users\oper\source\repos\HomeWork1\Task4\obj\Debug\Task4.exe
+c:\users\oper\source\repos\HomeWork1\Task4\obj\Debug\Task4.pdb

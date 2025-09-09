@@ -1,7 +1,0 @@
-C:\Users\Andrey\source\repos\HomeWork_2Switch\HomeWork_2Switch\bin\Debug\HomeWork_2Switch.exe.config
-C:\Users\Andrey\source\repos\HomeWork_2Switch\HomeWork_2Switch\bin\Debug\HomeWork_2Switch.exe
-C:\Users\Andrey\source\repos\HomeWork_2Switch\HomeWork_2Switch\bin\Debug\HomeWork_2Switch.pdb
-C:\Users\Andrey\source\repos\HomeWork_2Switch\HomeWork_2Switch\obj\Debug\HomeWork_2Switch.csprojResolveAssemblyReference.cache
-C:\Users\Andrey\source\repos\HomeWork_2Switch\HomeWork_2Switch\obj\Debug\HomeWork_2Switch.csproj.CoreCompileInputs.cache
-C:\Users\Andrey\source\repos\HomeWork_2Switch\HomeWork_2Switch\obj\Debug\HomeWork_2Switch.exe
-C:\Users\Andrey\source\repos\HomeWork_2Switch\HomeWork_2Switch\obj\Debug\HomeWork_2Switch.pdb

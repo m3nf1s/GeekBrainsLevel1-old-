@@ -1,9 +1,0 @@
-C:\Users\Andrey\source\repos\HomeWork_4\Task2\bin\Debug\Task2.exe.config
-C:\Users\Andrey\source\repos\HomeWork_4\Task2\bin\Debug\Task2.exe
-C:\Users\Andrey\source\repos\HomeWork_4\Task2\bin\Debug\Task2.pdb
-C:\Users\Andrey\source\repos\HomeWork_4\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
-C:\Users\Andrey\source\repos\HomeWork_4\Task2\obj\Debug\Task2.exe
-C:\Users\Andrey\source\repos\HomeWork_4\Task2\obj\Debug\Task2.pdb
-C:\Users\Andrey\source\repos\HomeWork_4\Task2\bin\Debug\TestArray.txt
-C:\Users\Andrey\source\repos\HomeWork_4\Task2\bin\Debug\TestWrite.txt
-C:\Users\Andrey\source\repos\HomeWork_4\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache

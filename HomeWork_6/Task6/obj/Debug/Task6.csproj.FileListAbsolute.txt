@@ -1,7 +1,0 @@
-C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_6\Task6\bin\Debug\Task6.exe.config
-C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_6\Task6\bin\Debug\Task6.exe
-C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_6\Task6\bin\Debug\Task6.pdb
-C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
-C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_6\Task6\obj\Debug\Task6.exe
-C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_6\Task6\obj\Debug\Task6.pdb
-C:\Users\oper\source\repos\Derevyanko_GU_HomeWork_6\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache

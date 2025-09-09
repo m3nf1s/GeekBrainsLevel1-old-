@@ -1,6 +1,0 @@
-C:\Users\Andrey\source\repos\HomeWork_4\Task6\bin\Debug\Task6.exe.config
-C:\Users\Andrey\source\repos\HomeWork_4\Task6\bin\Debug\Task6.exe
-C:\Users\Andrey\source\repos\HomeWork_4\Task6\bin\Debug\Task6.pdb
-C:\Users\Andrey\source\repos\HomeWork_4\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
-C:\Users\Andrey\source\repos\HomeWork_4\Task6\obj\Debug\Task6.exe
-C:\Users\Andrey\source\repos\HomeWork_4\Task6\obj\Debug\Task6.pdb
